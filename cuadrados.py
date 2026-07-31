@@ -7,4 +7,4 @@ while True:
     if i > N:
         break
 print ("Secuencia de cuadrados hasta ", N)
-    
+#Hola Mundo #6
